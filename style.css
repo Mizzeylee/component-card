@@ -140,12 +140,11 @@ s {
 
   .right {
     background: var(--White);
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 30px;
     width: 400px;
     text-align: justify;
     text-justify: inter-word;
-    font-size: 16px;
+    font-size: 15px;
   }
 
   .break {
@@ -178,7 +177,7 @@ s {
   }
 
   button {
-    padding: 20px 115px 20px 115px;
+    padding: 20px 115px 20px 120px;
     margin-bottom: 30px;
   }
 }
