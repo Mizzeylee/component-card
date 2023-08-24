@@ -120,7 +120,7 @@ s {
     overflow: scroll;
   }
   .container {
-    width: 400px;
+    width: 350px;
     flex-direction: column;
     border-radius: 0px;
     overflow: hidden;
@@ -140,10 +140,10 @@ s {
 
   .right {
     background: var(--White);
-    padding-left: 30px;
+    padding-left: 15px;
     width: 400px;
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: left;
+    /* text-justify: inter-word; */
     font-size: 15px;
   }
 
@@ -177,7 +177,7 @@ s {
   }
 
   button {
-    padding: 20px 115px 20px 120px;
+    padding: 20px 115px 20px 100px;
     margin-bottom: 30px;
   }
 }
