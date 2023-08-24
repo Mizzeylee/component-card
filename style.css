@@ -21,6 +21,7 @@ body {
   min-height: calc(100vh - 1px);
   flex-direction: column;
   font-family: "Montserrat";
+  
 }
 
 .container {
@@ -139,11 +140,12 @@ s {
 
   .right {
     background: var(--White);
-    padding-left: px;
+    padding-left: 40px;
+    padding-right: 40px;
     width: 400px;
     text-align: justify;
     text-justify: inter-word;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .break {
@@ -176,7 +178,7 @@ s {
   }
 
   button {
-    padding: 20px 125px 20px 125px;
+    padding: 20px 115px 20px 115px;
     margin-bottom: 30px;
   }
 }
