@@ -127,21 +127,21 @@ s {
   }
 
   .left img {
-    width: 400px;
+    width: 100%;
     border-radius: 13px 13px 0px 0px;
     height: 100%;
   }
 
   .left {
     width: 100%;
-    border-radius: 0px;
+    border-top-right-radius: 0px;
     align-self: center;
   }
 
   .right {
     background: var(--White);
     padding-left: 15px;
-    width: 400px;
+    width: 100%;
     text-align: left;
     /* text-justify: inter-word; */
     font-size: 15px;
